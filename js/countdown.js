@@ -16,7 +16,7 @@ function startCountdown() {
 
     if (timeLeft <= 0) {
       countdownElement.innerHTML = "Презентация началась!";
-      clearInterval(timer); // Теперь `timer` объявлен выше, ошибки не будет
+      clearInterval(timer);
       return;
     }
 

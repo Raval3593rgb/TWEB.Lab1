@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Main Page</title>
+  <link rel="stylesheet" href="style1.css">
+</head>
+
+<body>
+
+<div class="container">
+  <header>
+    <h1>Nintendo Switch</h1>
+  </header>
+
+  <div class="content">
+    <nav>
+      <ul>
+        <li><a href="pagina2.php">Pagina 2</a></li>
+        <li><a href="pagina3.php">Pagina 3</a></li>
+        <li><a href="pagina4.php">Pagina 4</a></li>
+        <li><a href="pagina5.php">Pagina 5</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <p>This is the main page. For navigation, click on other pages.</p>
+      <img src="https://assets.onecompiler.app/4398y7mhh/4398wuhhb/Nintendo_Switch_logo.svg.png" alt="logo" width="200">
+      <h2>Countdown to start of sales</h2>
+      <div id="countdown"></div>
+      <script src="/Lab1/js/countdown.js">  </script>
+    </main>
+  </div>
+
+  <footer>
+    <img src="/Lab1/img/red.jpg" alt="Oled">
+  </footer>
+</div>
+
+</body>
+</html>

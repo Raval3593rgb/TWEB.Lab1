@@ -79,3 +79,12 @@ h2 {
 .image-container a:hover img {
   transform: scale(1.2);
 }
+
+.review-link {
+  font-size: 18px;
+  color: #cc0000;
+  text-decoration: none;
+}
+.review-link:hover {
+  text-decoration: underline;
+}
