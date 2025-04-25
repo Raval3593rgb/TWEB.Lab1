@@ -15,7 +15,7 @@
   </p>
 
   <div class="image-container">
-    <img src="/Lab1/img/wii u.jpg" alt="Alt Mod" width="400">
+    <img src="/Lab1/public/img/wii u.jpg" alt="Alt Mod" width="400">
   </div>
 
   <p class="indent">
@@ -23,7 +23,7 @@
   </p>
 
   <div class="image-container">
-    <img src="/Lab1/img/dims.jpg" alt="Lite" width="300">
+    <img src="/Lab1/public/img/dims.jpg" alt="Lite" width="300">
   </div>
 
 

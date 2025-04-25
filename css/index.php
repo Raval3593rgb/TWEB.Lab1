@@ -21,6 +21,7 @@
         <li><a href="pagina3.php">Pagina 3</a></li>
         <li><a href="pagina4.php">Pagina 4</a></li>
         <li><a href="pagina5.php">Pagina 5</a></li>
+        <li><a href="games.php">About some Games</a></li>
       </ul>
     </nav>
 
@@ -34,7 +35,7 @@
   </div>
 
   <footer>
-    <img src="/Lab1/img/red.jpg" alt="Oled">
+    <img src="/Lab1/public/img/red.jpg" alt="Oled">
   </footer>
 </div>
 
