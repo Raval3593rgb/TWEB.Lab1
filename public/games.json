@@ -1,37 +1,37 @@
 [
   {
-    "title": "The Legend of Zelda: Breath of the Wild",
-    "description": "The big open world, many mysteries and one mission - to save The Hyrule",
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "text": "The big open world, many mysteries and one mission - to save The Hyrule",
     "image": "/Lab1/public/img/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
   },
   {
-    "title": "Super Mario Odyssey",
-    "description": "Another fun adventure of Mario with his pal Cappy to stop the Bowser",
+    "name": "Super Mario Odyssey",
+    "text": "Another fun adventure of Mario with his pal Cappy to stop the Bowser",
     "image": "/Lab1/public/img/Super_Mario_Odyssey.jpg"
   },
   {
-    "title": "Animal Crossing: New Horizons",
-    "description": "Comfy and relaxing way to explore the world of Animal Crossing",
+    "name": "Animal Crossing: New Horizons",
+    "text": "Comfy and relaxing way to explore the world of Animal Crossing",
     "image": "/Lab1/public/img/Animal_Crossing_New_Horizons.jpg"
   },
   {
-    "title": "Metroid Dread",
-    "description": " Bounty hunter Samus Aran visits a planet called ZDR, where she encounters new and dangerous robotic enemies.",
+    "name": "Metroid Dread",
+    "text": " Bounty hunter Samus Aran visits a planet called ZDR, where she encounters new and dangerous robotic enemies.",
     "image": "/Lab1/public/img/Metroid_Dread_Banner.png"
   },
   {
-    "title": "Splaton 3",
-    "description": "Fun multiplayer shooter where you fight for the territory of map",
+    "name": "Splaton 3",
+    "text": "Fun multiplayer shooter where you fight for the territory of map",
     "image": "/Lab1/public/img/Splatoon.3.jpg"
   },
   {
-    "title": "Mario Kart 8 Deluxe",
-    "description": "Fun racing game with your favorite characters from Super Mario's universe",
+    "name": "Mario Kart 8 Deluxe",
+    "text": "Fun racing game with your favorite characters from Super Mario's universe",
     "image": "/Lab1/public/img/MarioKart8Boxart.jpg"
   },
   {
-    "title": "Pokémon Scarlet & Violet",
-    "description": "An adventure with your pokemon partner to become the Champion of your home town",
+    "name": "Pokémon Scarlet & Violet",
+    "text": "An adventure with your pokemon partner to become the Champion of your home town",
     "image": "/Lab1/public/img/Pokémon_Scarlet_and_Violet_banner.png"
   }
 ]

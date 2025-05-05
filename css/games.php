@@ -5,6 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>About Games</title>
   <link rel="stylesheet" href="style5.css">
+
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <h1 id="game-of-the-day"></h1>
+  <img id="game-image" src="" alt="">
+  <p id="game-description"></p>
+
 </head>
   <body>
 
